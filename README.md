@@ -69,6 +69,6 @@ export default CommonDialog
   }
 ```
 
-###License
+### License
 This project is 
 <a href="https://github.com/facebook/react/blob/master/LICENSE">MIT licensed.</a>
